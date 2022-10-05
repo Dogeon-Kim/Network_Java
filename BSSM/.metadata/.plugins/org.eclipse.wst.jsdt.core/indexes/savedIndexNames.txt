@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\BSSM\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+77619022.index
+846287648.index
+882339235.index
+3284980859.index
+30239710.index
+3190724872.index
