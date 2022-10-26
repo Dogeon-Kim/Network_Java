@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\kdk54\OneDrive\?? ??\Network_Java\Number2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+235019123.index
+3863770973.index
+2443653191.index
+2176013778.index
+3283274719.index
+882339235.index
